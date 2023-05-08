@@ -1,0 +1,11 @@
+.InsertBook>.background {
+	background: brown;
+	width: 500px;
+	margin-left: 40%;
+}
+.InsertBook>h1,h2 {
+	color: aliceblue;
+}
+.InsertBook>input {
+	background-color: white;
+}

@@ -1,0 +1,23 @@
+body,root ,html{
+   
+
+   text-align: center;
+
+    /* The image used */
+    background-image: url("../src/assests/pexels-photo-2908984.jpeg");
+    background-color: aliceblue;
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+a{color: aliceblue;
+font-size: x-large;}
+input,select,button{font-size: x-large;}
+
